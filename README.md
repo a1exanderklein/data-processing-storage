@@ -1,4 +1,4 @@
-# Python InMemoryDB: A Simple In-Memory Database with Transactions
+# Python InMemoryDB: In-Memory Database with Transactions
 
 ## Overview
 This project implements a simple in-memory key-value database with transaction support. It supports:
@@ -15,6 +15,7 @@ This project implements a simple in-memory key-value database with transaction s
    git clone [https://github.com/a1exanderklein/data-processing-storage.git]
    cd [data-processing-storage]
 3. Run the test file:
+   ```bash
     python -m unittest test.py
 
 # Assignment Suggestions
